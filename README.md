@@ -9,4 +9,4 @@ This archive has been "translated" to work with $calendar in most Linux/BSD base
 just save the file and call with the -f flag in calendar to the path you saved the file. and the rest is this day in history.
 $calendar -f /path/to/calendar.event -A 0
 
-A big thanks to the Admin at CDAY, Patrick Kincaid and Bruce T. Goldman
+A big thanks to the Admin at CDAY, Andrew Z and to Patrick Kincaid & Bruce T. Goldman
